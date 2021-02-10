@@ -10,20 +10,20 @@ System.out.println("teddyhack is cool")
 
 Current Modules:
 
-<details> 
-  <summary>Client</summary>
-      - FancyChatMessages <br>
-      - ChatSuffix
-</details>
-<details> 
-  <summary>Player</summary>
-      - Fly <br>
-      - Sprint
-</details>
-<details> 
-  <summary>Render</summary>
-      - FullBright
-</details>
+  <details> 
+    <summary>Client</summary>
+        - FancyChatMessages <br>
+        - ChatSuffix
+  </details>
+  <details> 
+    <summary>Player</summary>
+        - Fly <br>
+        - Sprint
+  </details>
+  <details> 
+    <summary>Render</summary>
+        - FullBright
+  </details>
 
 ### Support or Contact
 
