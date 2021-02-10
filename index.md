@@ -12,17 +12,17 @@ Current Modules:
 
   <details> 
     <summary>Client</summary>
-        - FancyChatMessages <br>
-        - ChatSuffix
+            - FancyChatMessages <br>
+            - ChatSuffix
   </details>
   <details> 
     <summary>Player</summary>
-        - Fly <br>
-        - Sprint
+            - Fly <br>
+            - Sprint
   </details>
   <details> 
     <summary>Render</summary>
-        - FullBright
+            - FullBright
   </details>
 
 ### Support or Contact
