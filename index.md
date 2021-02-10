@@ -8,14 +8,20 @@ System.out.println("teddyhack is cool")
 
 Current Modules:
 
-- Client
-  - FancyChatMessages
-  - ChatSuffix
-- Player
-  - Fly
-  - Sprint
-- Render
-  - FullBright
+<details> 
+  <summary>Client</summary>
+    - FancyChatMessages
+    - ChatSuffix
+</details>
+<details> 
+  <summary>Player</summary>
+    - Fly
+    - Sprint
+</details>
+<details> 
+  <summary>Render</summary>
+    - FullBright
+</details>
 
 ### Support or Contact
 
