@@ -10,12 +10,12 @@ Current Modules:
 
 <details> 
   <summary>Client</summary>
-    - FancyChatMessages
+    - FancyChatMessages\n
     - ChatSuffix
 </details>
 <details> 
   <summary>Player</summary>
-    - Fly
+    - Fly\n
     - Sprint
 </details>
 <details> 
