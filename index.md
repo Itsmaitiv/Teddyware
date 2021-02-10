@@ -17,13 +17,17 @@ Current Modules:
             - ChatSuffix
   </details>
   <details> 
-    <summary>Player</summary>
+    <summary>Movement</summary>
             - Fly <br>
             - Sprint
   </details>
   <details> 
     <summary>Render</summary>
             - FullBright
+  </details>
+  <details> 
+    <summary>Player</summary>
+            - NoFall
   </details>
 
 ### Support or Contact
