@@ -14,12 +14,14 @@ Current Modules:
   <details> 
     <summary>Client</summary>
             - FancyChatMessages <br>
-            - ChatSuffix
+            - ChatSuffix <br>
+            - DiscordRichPresence 
   </details>
   <details> 
     <summary>Movement</summary>
             - Fly <br>
-            - Sprint
+            - Sprint <br>
+            - Step 
   </details>
   <details> 
     <summary>Render</summary>
