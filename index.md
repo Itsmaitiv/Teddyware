@@ -35,7 +35,7 @@ System.out.println("teddyhack is cool")
 
 ### Client Pictures
 1 so far :) <br>
-[da alt text for clickgui](https://cdn.discordapp.com/attachments/818146912758399039/820032577116962906/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/818146912758399039/820032577116962906/unknown.png" alt="alt text for clickgooey" /> 
 
 ### Support or Contact
 
