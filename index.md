@@ -33,6 +33,10 @@ System.out.println("teddyhack is cool")
     - Fly <br>
 </details>  
 
+### Client Pictures
+1 so far :) <br>
+[da alt text for clickgui](https://cdn.discordapp.com/attachments/818146912758399039/820032577116962906/unknown.png)
+
 ### Support or Contact
 
 [Discord](https://discord.gg/X2BmAqW8ry)
