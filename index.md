@@ -8,29 +8,31 @@ No releases have been made yet, as it is still very undeveloped.
 System.out.println("teddyhack is cool")
 ```
 
-
-Current Modules:
-
-  <details> 
-    <summary>Client</summary>
-            - FancyChatMessages <br>
-            - ChatSuffix <br>
-            - DiscordRichPresence 
-  </details>
-  <details> 
-    <summary>Movement</summary>
-            - Fly <br>
-            - Sprint <br>
-            - Step 
-  </details>
-  <details> 
-    <summary>Render</summary>
-            - FullBright
-  </details>
-  <details> 
-    <summary>Player</summary>
-            - NoFall
-  </details>
+### Current Modules
+<details>
+  <summary>Click for all the modules!
+- AutoArmor
+- AutoTotem
+- BowSpam
+- KillAura
+- ServerBackdoor
+- FullBright
+- AutoSuicide
+- NoFall
+- ChatNotifier
+- ChatSuffix
+- Watermark
+- ArrayList
+- ChatFont
+- ClickGUI
+- Coords
+- TabGUI
+- Hud
+- Sprint
+- Step
+- Fly
+  </summary>
+</details  
 
 ### Support or Contact
 
