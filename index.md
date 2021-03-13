@@ -11,27 +11,27 @@ System.out.println("teddyhack is cool")
 ### Current Modules
 <details>
   <summary>Click for all the modules!</summary>
-    - AutoArmor <br>
-    - AutoTotem <br>
-    - BowSpam <br>
-    - KillAura <br>
-    - ServerBackdoor <br>
-    - FullBright <br>
-    - AutoSuicide <br>
-    - NoFall <br>
-    - ChatNotifier <br>
-    - ChatSuffix <br>
-    - Watermark <br>
-    - ArrayList <br>
-    - ChatFont <br>
-    - ClickGUI <br>
-    - Coords <br>
-    - TabGUI <br>
-    - Hud <br>
-    - Sprint <br>
-    - Step <br>
-    - Fly <br>
-</details  
+- AutoArmor <br>
+- AutoTotem <br>
+- BowSpam <br>
+- KillAura <br>
+- ServerBackdoor <br>
+- FullBright <br>
+- AutoSuicide <br>
+- NoFall <br>
+- ChatNotifier <br>
+- ChatSuffix <br>
+- Watermark <br>
+- ArrayList <br>
+- ChatFont <br>
+- ClickGUI <br>
+- Coords <br>
+- TabGUI <br>
+- Hud <br>
+- Sprint <br>
+- Step <br>
+- Fly <br>
+</details>  
 
 ### Support or Contact
 
