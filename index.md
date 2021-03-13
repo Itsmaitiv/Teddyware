@@ -10,7 +10,7 @@ System.out.println("teddyhack is cool")
 
 ### Current Modules
 <details>
-  <summary>Click for all the modules!
+  <summary>Click for all the modules!</summary>
     AutoArmor
     AutoTotem
     BowSpam
@@ -31,7 +31,6 @@ System.out.println("teddyhack is cool")
     Sprint
     Step
     Fly
-  </summary>
 </details  
 
 ### Support or Contact
