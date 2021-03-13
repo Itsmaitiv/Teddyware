@@ -2,7 +2,7 @@
 
 Hi there :) Teddyhack is a 1.12.2 anarchy hack client currently in development. <br>
 No releases have been made yet, as it is still very undeveloped.
-
+Current Version: v0.27
 
 ```java
 System.out.println("teddyhack is cool")
@@ -11,26 +11,26 @@ System.out.println("teddyhack is cool")
 ### Current Modules
 <details>
   <summary>Click for all the modules!</summary>
-    AutoArmor
-    AutoTotem
-    BowSpam
-    KillAura
-    ServerBackdoor
-    FullBright
-    AutoSuicide
-    NoFall
-    ChatNotifier
-    ChatSuffix
-    Watermark
-    ArrayList
-    ChatFont
-    ClickGUI
-    Coords
-    TabGUI
-    Hud
-    Sprint
-    Step
-    Fly
+    AutoArmor <br>
+    AutoTotem <br>
+    BowSpam <br>
+    KillAura <br>
+    ServerBackdoor <br>
+    FullBright <br>
+    AutoSuicide <br>
+    NoFall <br>
+    ChatNotifier <br>
+    ChatSuffix <br>
+    Watermark <br>
+    ArrayList <br>
+    ChatFont <br>
+    ClickGUI <br>
+    Coords <br>
+    TabGUI <br>
+    Hud <br>
+    Sprint <br>
+    Step <br>
+    Fly <br>
 </details  
 
 ### Support or Contact
