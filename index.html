@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    /* Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+    body { 
+        font-family: 'Raleway', sans-serif; 
+        background-image: url('BackgroundImage.jpg');
+    }
+
+    button { font-family: 'Raleway', sans-serif; }
+    * { box-sizing: border-box; }
+
+    .center {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    p {
+        font-size: large;
+    }
+
+    .center h1 {
+        color: white;
+    }
+
+    .center p {
+        color: white;
+    }
+
+    .center button {
+        width: 175px;
+        height: 40px;
+        overflow: hidden;
+        outline: none;
+        transition: 0.2s;
+        border: 0;
+        border-radius: 8px;
+        margin-right: 3px;
+        margin-left: 3px;
+        background-color: #c7c7c7;
+    }
+
+    .center button:hover {
+        color: white;
+        background-color: #835C3B;
+        box-shadow: 0 0 10px #835C3B, 0 0 40px #835C3B, 0 0 80px #835C3B;
+    }
+
+    svg {
+        position: absolute;
+        bottom: 0%;
+        left: 0%;
+    }
+
+    .about {
+        justify-content: center;
+        position: absolute;
+        left: 50%;
+        width: 100%;
+        bottom: -100%;
+        height: 70%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        background-color: #835C3B;
+        color: white;
+    }
+
+    .about img {
+        border-radius: 50%; 
+        width: 200px; 
+        height: 200px;
+    }
+
+    .images {
+        float: right;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    .credits::after {
+        content: "";
+        clear: both;
+        display: table-row;
+    }
+</style>
+<body>
+
+    <div class='center'>
+        <h1>Teddyware Utility Mod</h1>
+        <p>1.12.2 assistance mod aimed at servers such as 2b2t.</p>
+
+        <button type="button" onclick="window.location='https://discord.gg/CkXMAHdmqs'">
+            Discord
+        </button>
+
+        <button type="button" onclick="window.location='https://github.com/ChompChompDead/Teddyhack'">
+            Github
+        </button>
+
+        <button type="button" onclick="window.location='https://github.com/ChompChompDead/Teddyware/releases'">
+            Releases
+        </button>
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="#835c3b" fill-opacity="1" d="M0,224L48,197.3C96,171,192,117,288,122.7C384,128,480,192,576,186.7C672,181,768,107,864,112C960,117,1056,203,1152,218.7C1248,235,1344,181,1392,154.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+    </svg>
+
+    <div class="about" id="about">
+        <h1>About</h1>
+        <p>
+            Teddyware is a 1.12.2 utility/assistance mod like <b>optifine</b> and <b>impact</b>. <br>
+            It is only meant for servers that allow it, such as 2b2t. <br>
+        </p><br>
+
+        <div class="credits" id="credits">
+            <h1>Credits</h1>
+
+            <div class='images'>
+                <img src="https://cdn.discordapp.com/avatars/755852390703300681/bbe8ae1e0b93896d5ba9b94b4bba8b70.png?size=1024">
+                <h2>timo#3341 | Contributor</h2>
+            </div>
+
+            <div class='images'>
+                <img src="https://cdn.discordapp.com/avatars/514530713312428054/0355d5d028cde0e7580b7a6dd814ceee.png?size=256">
+                <h2>chomp#0986 | Creator</h2>
+            </div>
+
+            <div class='images'>
+                <img src="https://cdn.discordapp.com/avatars/819995833297535027/c4be4e7ab214819459f404cf65d93108.png?size=1024">
+                <h2>BruhPenis?#2777 | Developer</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
